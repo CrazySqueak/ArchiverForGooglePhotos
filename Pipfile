@@ -13,7 +13,7 @@ google-api-python-client = "*"
 google-auth-httplib2 = "*"
 google-auth-oauthlib = "*"
 isort = "*"
-cx-freeze = "*"
+cx-freeze = "==6.8"
 colorama = "*"
 sanitize-filename = "*"
 
